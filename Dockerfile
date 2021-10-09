@@ -16,4 +16,4 @@ VOLUME /app/logs
 
 CMD npm run start
 
-docker build -t mynode-docker-build .
+
