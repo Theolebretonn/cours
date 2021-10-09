@@ -1,2 +1,3 @@
 node_modules
 .git
+docker build -t mynode-docker-build .
